@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# Hearing Test
+
+
+----
+## Resources
+
+- [How to deploy react web to github?](https://rexhung0302.github.io/2021/09/28/20210928/)
+    1. Install `gh-pages`: `$ npm i gh-pages` 
+    2. Append two cmd at `package.json`
+        ```
+        "scripts": {
+          "start": "react-scripts start",
+          "build": "react-scripts build",
+          "test": "react-scripts test",
+          "eject": "react-scripts eject",
+          "predeploy": "npm run build",  # New added cmd
+          "deploy": "gh-pages -d build"  # New added cmd
+        }        
+        ```
+    3. Append your homepage and app-name at package.json
+        ```
+          "homepage": "https://miblue119.github.io/hearing_test"
+        ```
+    4. Deploy to github's repo `gh-pages`
+        ```
+        $ npm run build
+        ```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
