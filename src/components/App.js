@@ -10,18 +10,7 @@ import Step from "./Step";
 import HearingSound from "./HearingSound";
 import "./styles.css";
 
-import useSound from 'use-sound';
-import testSound from '../assets/hearingtest_audio/4000/warble_4000_40.ogg'
 
-function MyButton(){
-    const [playSound] = useSound(testSound)
-    
-    return (
-      <button onClick={() => playSound()}>
-         Play Sound
-      </button>
-    )
-}
 
 const App = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -38,12 +27,7 @@ const App = () => {
     return (
         <div className='ui container grid'>
             <div className='ui row'>
-                <div className='column eight wide'>
-                    <SongList />
-                </div>
-                <div className='column eight wide'>
-                    <SongDetail />
-                </div>
+
                 <div className='column eight wide'>
                     <div className="blockcontainer">
                         <div className="container">
@@ -52,10 +36,6 @@ const App = () => {
                         </div>
                         <Slider onChange={_handleIndexChange} currentIndex={currentIndex} />
                     </div>
-                </div>
-
-                <div>
-                    <MyButton/>
                 </div>
 
             </div>
