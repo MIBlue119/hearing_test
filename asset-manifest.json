@@ -1,10 +1,16 @@
 {
   "files": {
-    "main.js": "/hearing_test/static/js/main.07b204f8.js",
+    "main.css": "/hearing_test/static/css/main.eafb6c1c.css",
+    "main.js": "/hearing_test/static/js/main.d0b2ae10.js",
+    "static/js/845.f8621941.chunk.js": "/hearing_test/static/js/845.f8621941.chunk.js",
+    "static/media/warble_4000_40.ogg": "/hearing_test/static/media/warble_4000_40.ed39fe9bf36aed1c5fe9.ogg",
     "index.html": "/hearing_test/index.html",
-    "main.07b204f8.js.map": "/hearing_test/static/js/main.07b204f8.js.map"
+    "main.eafb6c1c.css.map": "/hearing_test/static/css/main.eafb6c1c.css.map",
+    "main.d0b2ae10.js.map": "/hearing_test/static/js/main.d0b2ae10.js.map",
+    "845.f8621941.chunk.js.map": "/hearing_test/static/js/845.f8621941.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.07b204f8.js"
+    "static/css/main.eafb6c1c.css",
+    "static/js/main.d0b2ae10.js"
   ]
 }
