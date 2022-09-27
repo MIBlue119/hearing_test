@@ -2,6 +2,13 @@
 
 - Deploy at https://miblue119.github.io/hearing_test
 
+## TODO
+ 
+- [ ] Render hearing test audio with slider 
+- [ ] Record the selected result 
+- [ ] Generate the audiogram
+
+
 ## Usage 
 
 1. Run the code at local
