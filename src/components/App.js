@@ -7,6 +7,7 @@ import SongDetail from './SongDetail';
 
 import Slider from "./Slider";
 import Step from "./Step";
+import HearingSound from "./HearingSound";
 import "./styles.css";
 
 import useSound from 'use-sound';
@@ -47,6 +48,7 @@ const App = () => {
                     <div className="blockcontainer">
                         <div className="container">
                             <Step currentIndex={currentIndex} />
+                            <HearingSound currentIndex={currentIndex}/>
                         </div>
                         <Slider onChange={_handleIndexChange} currentIndex={currentIndex} />
                     </div>
