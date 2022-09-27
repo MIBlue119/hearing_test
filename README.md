@@ -1,5 +1,18 @@
 # Hearing Test
 
+- Deploy at https://miblue119.github.io/hearing_test
+
+## Usage 
+
+1. Run the code at local
+```
+$npm run start 
+```
+
+2. Deploy the code to remote `gh-page` branch
+```
+$npm run deploy
+```
 
 ----
 ## Resources
@@ -25,6 +38,10 @@
         ```
         $ npm run build
         ```
+- Install pkg 
+  ```
+  $npm i <pkg>
+  ```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

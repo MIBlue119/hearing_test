@@ -1,0 +1,33 @@
+.blockcontainer {
+    display: flex;
+    font-family: sans-serif;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.container {
+    width: 25%;
+}
+  
+.form-container {
+    width: 50%;
+}
+  
+.steps-container {
+    display: flex;
+    flex-direction: row;
+}
+  
+.steps-item {
+    padding-top: 136px;
+    padding-left: 10px;
+    min-height: 300px;
+}
+  
+.horizontal-slider {
+    height: 380px;
+    width: 25%;
+    /* border: 1px solid grey; */
+  }
+  
