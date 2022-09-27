@@ -10,9 +10,14 @@ $npm run start
 ```
 
 2. Deploy the code to remote `gh-page` branch
-```
-$npm run deploy
-```
+  - Push the code to remote first 
+    ```
+    $git push
+    ```
+  - And run this command to deploy
+    ```
+    $npm run deploy
+    ```
 
 ----
 ## Resources
