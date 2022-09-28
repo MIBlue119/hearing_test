@@ -55,71 +55,16 @@ $npm run start
   $npm i <pkg>
   ```
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Hearing Test Resources
 
-## Available Scripts
+- [Online Audiogram Hearing Test (125 Hz - 8 kHz)](https://www.audiocheck.net/testtones_hearingtestaudiogram.php)
+    - [ISO 389-7:2005
+Acoustics — Reference zero for the calibration of audiometric equipment — Part 7: Reference threshold of hearing under free-field and diffuse-field listening conditions](https://www.iso.org/standard/38976.html)
+- [Online Hearing Test and Audiogram Printout](https://hearingtest.online/)
+- [6 best online hearing tests](https://www.hearsoundly.com/guides/best-online-hearing-tests)
+    1. [Lively - Free 5 Minute Test With Video Results Explanation](https://imp.i351785.net/c/2451848/1383559/11795)
+    2. [Eargo - 7 Minute Test With Sound Calibration and Questionnaire](https://www.eargo.com/hearing-health/hearing-screener?utm_source=hearsoundly&utm_campaign=src93-cnl14-spnd01-cmp01)
+    3. [Audicus - 10 Minute Test With a Simple Interface](https://mintchip.mintmeasure.com/api/c?campid=110201&medium=affiliate&mid=110000&redirect=https%3A%2F%2Fwww.audicus.com%2Fonline-hearing-test%2F%3Futm_source%3Dsoundly&sid=soundly&utm_medium=Affiliate)
+    4. [Soundly - Test Time 5 Minutes, Audiogram-Style Results](https://www.soundly.com/hearing-test)
+    5. [3 Minute Online Test With Interactive Chart](https://hearingtest.online/)
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
